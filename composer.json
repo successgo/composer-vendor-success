@@ -1,0 +1,12 @@
+{
+    "name": "success/hello-composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Success Go",
+            "email": "success.go@gaodacheng.com"
+        }
+    ],
+    "require": {}
+}
